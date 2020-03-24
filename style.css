@@ -1,0 +1,70 @@
+
+p{
+    margin: 5px 0;
+}
+.menu{
+    position: relative;
+    text-align: center;
+    color: #f490d3;
+    padding: 15% 0;
+}
+.menu h2{
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 4px;
+    margin-top: 0;
+}
+.img-fluid{
+    max-width: 30%;
+	align-content: center;
+	display: block;
+}
+
+.hero-home{
+    background-image: url("../img/unnamed (1).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 3% 0;
+    text-align: center;
+    position: relative;
+}
+.hero-home h2{
+    font-size: 34px !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+}
+.hero-mujer p{
+    font-size: 14px !important;
+    color: #fff !important;
+    font-weight: 300 !important;
+}
+.overlay-mujer{
+    background-color: rgba(198,180,150,0.95);
+}
+.card-mujer{
+    background-color: #bc86ce;
+    padding: 10px;
+}
+.card-header h3{
+    color: #00FFFA !important;
+    font-size: 16px !important;
+    margin: 0;
+}
+
+.card-header h3{
+    color: #000 !important;
+    font-size: 16px !important;
+    margin: 0;
+}
+.card-content{
+    text-align: center;
+	background-color: #fff;
+}
+.card-content img{
+    width: 120px;
+    margin: 0 auto;
+}.card-footer{
+    color: #000 !important;
+    font-weight: 400 !important;
+}
